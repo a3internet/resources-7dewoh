@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a3internet.github.io/resources-7dewoh/sitemap.xml
